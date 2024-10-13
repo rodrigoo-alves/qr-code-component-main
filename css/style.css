@@ -35,7 +35,7 @@ body {
   margin-bottom: 16px;
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 1.4rem;
   text-align: center;
   color: #1f314f;
   line-height: 120%;
@@ -43,7 +43,7 @@ body {
 
 .text-container p {
   font-family: "Outfit", sans-serif;
-  font-size: 15px;
+  font-size: 0.9rem;
   color: #68778d;
   line-height: 140%;
   text-align: center;
