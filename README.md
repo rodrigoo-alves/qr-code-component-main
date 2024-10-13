@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](![qr code screenshot](image.png))
+(![qr code screenshot](image-1.png))
 
 ### Links
 
